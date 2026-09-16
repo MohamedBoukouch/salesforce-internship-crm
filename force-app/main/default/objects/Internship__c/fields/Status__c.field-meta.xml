@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField>
+    <fullName>Status__c</fullName>
+    <type>Picklist</type>
+    <label>Status</label>
+    <securityClassification>Public</securityClassification>
+    <valueSet>
+        <sorted>false</sorted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Open</fullName>
+                <default>false</default>
+                <active>true</active>
+            </value>
+            <value>
+                <fullName>Closed</fullName>
+                <default>false</default>
+                <active>true</active>
+            </value>
+            <value>
+                <fullName>Filled</fullName>
+                <default>false</default>
+                <active>true</active>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

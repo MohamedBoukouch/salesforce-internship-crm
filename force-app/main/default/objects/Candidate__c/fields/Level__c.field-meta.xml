@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField>
+    <fullName>Level__c</fullName>
+    <type>Picklist</type>
+    <label>Level</label>
+    <securityClassification>Public</securityClassification>
+    <valueSet>
+        <sorted>false</sorted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Freshman</fullName>
+                <default>false</default>
+                <active>true</active>
+            </value>
+            <value>
+                <fullName>Sophomore</fullName>
+                <default>false</default>
+                <active>true</active>
+            </value>
+            <value>
+                <fullName>Junior</fullName>
+                <default>false</default>
+                <active>true</active>
+            </value>
+            <value>
+                <fullName>Senior</fullName>
+                <default>false</default>
+                <active>true</active>
+            </value>
+            <value>
+                <fullName>Graduate</fullName>
+                <default>false</default>
+                <active>true</active>
+            </value>
+            <value>
+                <fullName>Other</fullName>
+                <default>false</default>
+                <active>true</active>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

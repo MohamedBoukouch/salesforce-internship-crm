@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField>
+    <fullName>Available_Positions__c</fullName>
+    <type>Number</type>
+    <precision>3</precision>
+    <scale>0</scale>
+    <label>Available Positions</label>
+    <securityClassification>Public</securityClassification>
+</CustomField>

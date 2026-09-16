@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField>
+    <fullName>First_Name__c</fullName>
+    <type>Text</type>
+    <length>50</length>
+    <label>First Name</label>
+    <securityClassification>Public</securityClassification>
+</CustomField>

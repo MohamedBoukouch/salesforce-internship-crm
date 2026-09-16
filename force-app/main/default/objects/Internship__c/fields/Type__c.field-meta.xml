@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField>
+    <fullName>Type__c</fullName>
+    <type>Picklist</type>
+    <label>Type</label>
+    <securityClassification>Public</securityClassification>
+    <valueSet>
+        <sorted>false</sorted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Full-time</fullName>
+                <default>false</default>
+                <active>true</active>
+            </value>
+            <value>
+                <fullName>Part-time</fullName>
+                <default>false</default>
+                <active>true</active>
+            </value>
+            <value>
+                <fullName>Remote</fullName>
+                <default>false</default>
+                <active>true</active>
+            </value>
+            <value>
+                <fullName>On-site</fullName>
+                <default>false</default>
+                <active>true</active>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField>
+    <fullName>School__c</fullName>
+    <type>Text</type>
+    <length>100</length>
+    <label>School</label>
+    <securityClassification>Public</securityClassification>
+</CustomField>

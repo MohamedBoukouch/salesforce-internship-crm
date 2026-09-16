@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField>
+    <fullName>Field_of_Study__c</fullName>
+    <type>Text</type>
+    <length>100</length>
+    <label>Field of Study</label>
+    <securityClassification>Public</securityClassification>
+</CustomField>

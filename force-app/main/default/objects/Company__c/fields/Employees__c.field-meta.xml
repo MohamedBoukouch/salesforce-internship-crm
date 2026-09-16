@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField>
+    <fullName>Employees__c</fullName>
+    <type>Number</type>
+    <precision>6</precision>
+    <scale>0</scale>
+    <label>Employees</label>
+    <securityClassification>Public</securityClassification>
+</CustomField>

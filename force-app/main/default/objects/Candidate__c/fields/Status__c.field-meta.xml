@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField>
+    <fullName>Status__c</fullName>
+    <type>Picklist</type>
+    <label>Status</label>
+    <securityClassification>Public</securityClassification>
+    <valueSet>
+        <sorted>false</sorted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Applied</fullName>
+                <default>false</default>
+                <active>true</active>
+            </value>
+            <value>
+                <fullName>Interviewing</fullName>
+                <default>false</default>
+                <active>true</active>
+            </value>
+            <value>
+                <fullName>Hired</fullName>
+                <default>false</default>
+                <active>true</active>
+            </value>
+            <value>
+                <fullName>Rejected</fullName>
+                <default>false</default>
+                <active>true</active>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

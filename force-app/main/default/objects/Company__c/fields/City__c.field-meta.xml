@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField>
+    <fullName>City__c</fullName>
+    <type>Text</type>
+    <length>50</length>
+    <label>City</label>
+    <securityClassification>Public</securityClassification>
+</CustomField>
